@@ -3,11 +3,11 @@
 
 
 
-<h1 align="center"> |ERROR PROBLEM FIXED </h1>
+<h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 
 <h1 align="center"> |MR.NIKI|</h1>
 
-<h2 align="center"> LOGIN WITH ADMIN APPROVE| </h2>
+<h2 align="center"> LOGIN WITH ADMIN APPROVE </h2>
 
 <p align="center">
      NEW PRO UID CRACKING TOOLS

@@ -13,11 +13,6 @@
 </p>
 
 
-
-<p align="center">
-              Mr.NIKI
-
-
 ## <b>installation</b>
 
 ```

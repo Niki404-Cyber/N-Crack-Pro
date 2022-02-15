@@ -16,17 +16,19 @@
 ## <b>installation</b>
 
 ```
+$cd
+$rm -rf N-Crack-Pro
 $ termux-setup-storage
 $ pkg update
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
+$ pip install requests
+$ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/N-Crack-Pro.git
 $ cd N-Crack-Pro
-$ python2 N-Crack-Pro
+$ python N-Crack-2009
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools)
 

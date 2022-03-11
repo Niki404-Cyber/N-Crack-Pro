@@ -2,22 +2,20 @@
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
 
 
-<h1 align="center"> |ERROR PROBLEM FIXED| </h1>
+<h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> |MR.NIKI|</h1>
+<h1 align="center"> MR.NIKI</h1>
 
 <h2 align="center"> LOGIN WITH ADMIN APPROVE </h2>
 
-<p align="center">
-     NEW PRO UID CRACKING TOOLS
+<p align="center"> NEW PRO UID CRACKING TOOLS (PAID)
 </p>
-
 
 ## <b>installation</b>
 
 ```
-$cd
-$rm -rf N-Crack-Pro
+$ cd
+$ rm -rf N-Crack-Pro
 $ termux-setup-storage
 $ pkg update
 $ pkg upgrade

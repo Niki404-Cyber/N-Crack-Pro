@@ -25,7 +25,7 @@ $ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/N-Crack-Pro.git
 $ cd N-Crack-Pro
-$ python N-Crack-2009
+$ python2 N-Crack-Pro
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools)
 
@@ -34,7 +34,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/N-Crack-Pro.git ; cd N-Crack-Pro; python N-Crack-Pro
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/N-Crack-Pro.git ; cd N-Crack-Pro; python2 N-Crack-Pro
 ```
  
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools )</br>

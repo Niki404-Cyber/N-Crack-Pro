@@ -4,14 +4,13 @@
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> MR.NIKI</h1>
+<h2 align="center"> MR.NIKI</h2>
 
-<h2 align="center"> LOGIN WITH ADMIN APPROVE </h2>
+<h3 align="center"> LOGIN WITH ADMIN APPROVE </h3>
 
-<p align="center"> NEW PRO UID CRACKING TOOLS (PAID)
-</p>
+<h4 align="center"> NEW PRO UID CRACKING TOOLS (PAID) </h4>
 
-## <b>installation</b>
+## <b>Installation</b>
 
 ```
 $ cd
@@ -30,7 +29,6 @@ $ python N-Crack-2009
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools)
 
-Note: (Get Free Approval With Condition)
 ```
 
 # Single Command 

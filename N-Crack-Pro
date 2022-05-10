@@ -1,13 +1,6 @@
-import os, platform
+import os, sys, time
+from time import sleep
 try:
-    import requests
-except:
-    os.system('pip2 install requests')
-
-import requests
-bit = platform.architecture()[0]
-if bit == '64bit':
-    from crack import bnsbuy
-    bnsbuy()
-elif bit == '32bit':
-    print "Opps Your Device Not Supported"
+    __import__("crack9").__niki__()
+except Exception as e:
+    exit(str(e))

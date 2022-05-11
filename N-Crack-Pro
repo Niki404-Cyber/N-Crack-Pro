@@ -1,6 +1,6 @@
 import os, sys, time
 from time import sleep
 try:
-    __import__("crack9").__niki__()
+    __import__("crack2").__niki__()
 except Exception as e:
     exit(str(e))

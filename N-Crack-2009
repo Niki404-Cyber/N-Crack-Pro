@@ -1,5 +1,6 @@
-import os, sys
+import os, sys, time
+from time import sleep
 try:
-    __import__("update").bnsbuy()
+    __import__("crack9").__niki__()
 except Exception as e:
     exit(str(e))

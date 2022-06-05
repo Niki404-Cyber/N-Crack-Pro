@@ -31,7 +31,7 @@ $ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/N-Crack-Pro.git
 $ cd N-Crack-Pro
-$ python N-Crack-Pro
+$ python N-Crack-Free
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI N-Crack-Pro Tools)
 
